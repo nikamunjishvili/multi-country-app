@@ -1,7 +1,7 @@
 // app.config.js
 const fs = require("fs");
 
-const country = process.env.COUNTRY || "ge"; // default 'ge'
+const country = process.env.COUNTRY || "ua"; // default 'ge'
 
 const countryConfigMap = {
   ge: {
