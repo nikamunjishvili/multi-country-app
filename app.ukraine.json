@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MultiCountryApp",
+    "slug": "multi-country-app",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "extra": {
+      "country": "ua"
+    }
+  }
+}
